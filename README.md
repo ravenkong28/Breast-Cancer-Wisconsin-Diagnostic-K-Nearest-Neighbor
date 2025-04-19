@@ -70,6 +70,7 @@ KNN was implemented with **K=5**, evaluated using **5-Fold Cross Validation**.
 - Accuracy: **96.13% ± 1.32%**
 - Same result as RapidMiner, confirming the model’s consistency and reliability across different tools
 
+---
 
 ### 📌 PCA (Principal Component Analysis)
 
@@ -80,6 +81,8 @@ Explained Variance Ratio:
 `[0.44272026, 0.18971182, 0.09393163, 0.06602135, 0.05495768, 0.04024522, 0.02250734, 0.01588724, 0.01389649, 0.01168978]`
 
 PCA helped improve computational efficiency while retaining the most important patterns from the data.
+
+---
 
 ## ✅ Conclusion
 
